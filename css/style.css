@@ -1,3 +1,10 @@
 body {
     text-align: center;
 }
+p {
+    color: red;
+    font-family: verdana;
+    padding: 10px;
+    display: inline;
+    vertical-align: top;
+}
